@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "ganache-cli": "^6.1.6",
-    "truffle": "^4.1.13",
+    "truffle": "^5.7.9",
     "truffle-keystore-provider": "^1.0.1",
     "zeppelin-solidity": "1.8.0"
   },
