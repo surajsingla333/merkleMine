@@ -23,12 +23,12 @@
     "prompt-sync": "^4.1.6",
     "r2": "^2.0.1",
     "web3": "^1.0.0-beta.33",
-    "yargs": "^11.0.0"
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
     "ganache-cli": "^6.1.6",
-    "truffle": "^4.1.13",
-    "truffle-keystore-provider": "^1.0.1",
+    "truffle": "^5.8.4",
+    "truffle-keystore-provider": "^1.0.6",
     "zeppelin-solidity": "1.8.0"
   },
   "description": ""
